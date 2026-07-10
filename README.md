@@ -10,18 +10,21 @@ A powerful web-based tool for converting images to WEBP and compressing videos w
 - **Real-time Progress**: Monitor conversion progress in real-time
 - **Modern UI**: Clean, dark-themed interface with intuitive controls
 - **Customizable**: Adjust quality, preset, and resolution settings
+- **CPU/GPU Switching**: Toggle between CPU and GPU for faster processing
 
 ## Quick Demo
 
-[Live Demo](https://convertor-demo.vercel.app)
+[![Watch the demo on YouTube](https://img.youtube.com/vi/gO2Lp_wy3TM/0.jpg)](https://youtu.be/gO2Lp_wy3TM)
+
+**Watch the full demo:** [https://youtu.be/gO2Lp_wy3TM](https://youtu.be/gO2Lp_wy3TM)
 
 ## Screenshots
 
 ### Image Converter
-![Image Converter](screenshots/image-converter.png)
+![Image Converter](screenshots/image-converter.webp)
 
 ### Video Compressor
-![Video Compressor](screenshots/video-compressor.png)
+![Video Compressor](screenshots/video-compressor.webp)
 
 ## Technologies
 

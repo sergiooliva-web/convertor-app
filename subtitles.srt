@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:02,500
+Hi, I'm Sergei.
+
+2
+00:00:02,500 --> 00:00:06,000
+Fully open-source, free photo converter
+and video compressor with minimal quality loss.
+
+3
+00:00:06,000 --> 00:00:10,000
+Switch from CPU to GPU
+for faster processing.
+
+4
+00:00:10,000 --> 00:00:14,500
+You get excellent compression
+with just 1% quality loss —
+
+5
+00:00:14,500 --> 00:00:18,000
+you probably won't even see it.
+
+6
+00:00:18,000 --> 00:00:24,000
+Files take up less space, load faster,
+and quality stays the same.
