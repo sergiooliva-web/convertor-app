@@ -9,12 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ffmpeg/core": "^0.12.10",
+    "@ffmpeg/ffmpeg": "^0.12.15",
+    "@types/busboy": "^1.5.4",
+    "busboy": "^1.6.0",
+    "cwebp-bin": "^8.0.0",
+    "gif2webp-bin": "^5.0.0",
     "next": "16.2.10",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/fluent-ffmpeg": "^2.1.28",
+    "@types/node": "26.1.1",
+    "@types/react": "19.2.17",
     "eslint": "^9",
     "eslint-config-next": "16.2.10",
     "tailwindcss": "^4"
